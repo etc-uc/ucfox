@@ -1,4 +1,4 @@
-# sicufox
+# µc fox
 
 This project implements a fully automatic fox controller for ARDF competitions, capable of running all modes of operations presented in the IARU Region 1 rules for ARDF events, having an easy to use user interface for configuring and safe and easy deployment possibility.
 
